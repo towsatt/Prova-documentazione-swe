@@ -90,7 +90,7 @@ def estrai_info(filename, root):
 
     parts = [clean_name]
     if version: parts.append(version)
-    if date and filename.lower().startswith("verbale"): parts.append(date)
+    if date and clean_name.lower().startswith("verbale"): parts.append(date)
     if signed: parts.append("firmato")
     search_name = " ".join(parts)
 

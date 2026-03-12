@@ -1,0 +1,369 @@
+{
+  "RTB": [
+    {
+      "type": "file",
+      "name": "Lettera Di Presentazione",
+      "version": null,
+      "date": null,
+      "signed": false,
+      "path": "./docs/RTB/Lettera_di_Presentazione.pdf",
+      "search_name": "lettera di presentazione"
+    },
+    {
+      "type": "folder",
+      "name": "Documentazione Esterna",
+      "children": [
+        {
+          "type": "file",
+          "name": "Piano Di Qualifica",
+          "version": "v1.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/RTB/Documentazione Esterna/Piano_di_Qualifica_v1.0.pdf",
+          "search_name": "piano di qualifica v1.0"
+        },
+        {
+          "type": "file",
+          "name": "Piano Di Progetto",
+          "version": "v1.1",
+          "date": null,
+          "signed": false,
+          "path": "./docs/RTB/Documentazione Esterna/Piano_di_Progetto_v1.1.pdf",
+          "search_name": "piano di progetto v1.1"
+        },
+        {
+          "type": "file",
+          "name": "Glossario",
+          "version": "v2.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/RTB/Documentazione Esterna/Glossario_v2.0.pdf",
+          "search_name": "glossario v2.0"
+        },
+        {
+          "type": "file",
+          "name": "Analisi Dei Requisiti",
+          "version": "v1.1",
+          "date": null,
+          "signed": false,
+          "path": "./docs/RTB/Documentazione Esterna/Analisi_dei_Requisiti_v1.1.pdf",
+          "search_name": "analisi dei requisiti v1.1"
+        },
+        {
+          "type": "folder",
+          "name": "Verbali Esterni",
+          "children": [
+            {
+              "type": "file",
+              "name": "Verbale Esterno",
+              "version": null,
+              "date": "2026-01-14",
+              "signed": true,
+              "path": "./docs/RTB/Documentazione Esterna/Verbali Esterni/verbale_esterno_2026-01-14_firmato.pdf",
+              "search_name": "verbale esterno 2026-01-14 firmato"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Esterno",
+              "version": null,
+              "date": "2025-12-11",
+              "signed": true,
+              "path": "./docs/RTB/Documentazione Esterna/Verbali Esterni/verbale_esterno_2025-12-11_firmato.pdf",
+              "search_name": "verbale esterno 2025-12-11 firmato"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Esterno",
+              "version": null,
+              "date": "2025-12-05",
+              "signed": true,
+              "path": "./docs/RTB/Documentazione Esterna/Verbali Esterni/verbale_esterno_2025-12-05_firmato.pdf",
+              "search_name": "verbale esterno 2025-12-05 firmato"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Esterno",
+              "version": null,
+              "date": "2025-11-12",
+              "signed": true,
+              "path": "./docs/RTB/Documentazione Esterna/Verbali Esterni/verbale_esterno_2025-11-12_firmato.pdf",
+              "search_name": "verbale esterno 2025-11-12 firmato"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Documentazione Interna",
+      "children": [
+        {
+          "type": "file",
+          "name": "Norme Di Progetto",
+          "version": "v2.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/RTB/Documentazione Interna/Norme_di_Progetto_v2.0.pdf",
+          "search_name": "norme di progetto v2.0"
+        },
+        {
+          "type": "folder",
+          "name": "Verbali Interni",
+          "children": [
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2026-02-27",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2026-02-27.pdf",
+              "search_name": "verbale interno 2026-02-27"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2026-02-21",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2026-02-21.pdf",
+              "search_name": "verbale interno 2026-02-21"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2026-01-30",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2026-01-30.pdf",
+              "search_name": "verbale interno 2026-01-30"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2026-01-16",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2026-01-16.pdf",
+              "search_name": "verbale interno 2026-01-16"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2026-01-13",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2026-01-13.pdf",
+              "search_name": "verbale interno 2026-01-13"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2026-01-02",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2026-01-02.pdf",
+              "search_name": "verbale interno 2026-01-02"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-12-19",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-12-19.pdf",
+              "search_name": "verbale interno 2025-12-19"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-12-12",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-12-12.pdf",
+              "search_name": "verbale interno 2025-12-12"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-12-05",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-12-05.pdf",
+              "search_name": "verbale interno 2025-12-05"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-11-28",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-11-28.pdf",
+              "search_name": "verbale interno 2025-11-28"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-11-24",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-11-24.pdf",
+              "search_name": "verbale interno 2025-11-24"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-11-21",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-11-21.pdf",
+              "search_name": "verbale interno 2025-11-21"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-11-10",
+              "signed": false,
+              "path": "./docs/RTB/Documentazione Interna/Verbali Interni/verbale_interno_2025-11-10.pdf",
+              "search_name": "verbale interno 2025-11-10"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Candidatura": [
+    {
+      "type": "file",
+      "name": "Lettera Di Presentazione",
+      "version": "v2.0",
+      "date": null,
+      "signed": false,
+      "path": "./docs/Candidatura/Lettera_di_Presentazione_v2.0.pdf",
+      "search_name": "lettera di presentazione v2.0"
+    },
+    {
+      "type": "folder",
+      "name": "Documentazione Esterna",
+      "children": [
+        {
+          "type": "file",
+          "name": "Valutazione Capitolati",
+          "version": "v1.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/Candidatura/Documentazione Esterna/Valutazione_Capitolati_v1.0.pdf",
+          "search_name": "valutazione capitolati v1.0"
+        },
+        {
+          "type": "file",
+          "name": "Preventivo Costi",
+          "version": "v2.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/Candidatura/Documentazione Esterna/Preventivo_Costi_v2.0.pdf",
+          "search_name": "preventivo costi v2.0"
+        },
+        {
+          "type": "file",
+          "name": "Glossario",
+          "version": "v1.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/Candidatura/Documentazione Esterna/Glossario_v1.0.pdf",
+          "search_name": "glossario v1.0"
+        },
+        {
+          "type": "folder",
+          "name": "Verbali Esterni",
+          "children": [
+            {
+              "type": "file",
+              "name": "Verbale Esterno",
+              "version": null,
+              "date": "2025-10-22",
+              "signed": true,
+              "path": "./docs/Candidatura/Documentazione Esterna/Verbali Esterni/verbale_esterno_2025-10-22_firmato.pdf",
+              "search_name": "verbale esterno 2025-10-22 firmato"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Documentazione Interna",
+      "children": [
+        {
+          "type": "file",
+          "name": "Norme Di Progetto",
+          "version": "v1.0",
+          "date": null,
+          "signed": false,
+          "path": "./docs/Candidatura/Documentazione Interna/Norme_di_Progetto_v1.0.pdf",
+          "search_name": "norme di progetto v1.0"
+        },
+        {
+          "type": "folder",
+          "name": "Verbali Interni",
+          "children": [
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-11-04",
+              "signed": false,
+              "path": "./docs/Candidatura/Documentazione Interna/Verbali Interni/verbale_interno_2025-11-04.pdf",
+              "search_name": "verbale interno 2025-11-04"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-10-29",
+              "signed": false,
+              "path": "./docs/Candidatura/Documentazione Interna/Verbali Interni/verbale_interno_2025-10-29.pdf",
+              "search_name": "verbale interno 2025-10-29"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-10-27",
+              "signed": false,
+              "path": "./docs/Candidatura/Documentazione Interna/Verbali Interni/verbale_interno_2025-10-27.pdf",
+              "search_name": "verbale interno 2025-10-27"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-10-20",
+              "signed": false,
+              "path": "./docs/Candidatura/Documentazione Interna/Verbali Interni/verbale_interno_2025-10-20.pdf",
+              "search_name": "verbale interno 2025-10-20"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-10-15",
+              "signed": false,
+              "path": "./docs/Candidatura/Documentazione Interna/Verbali Interni/verbale_interno_2025-10-15.pdf",
+              "search_name": "verbale interno 2025-10-15"
+            },
+            {
+              "type": "file",
+              "name": "Verbale Interno",
+              "version": null,
+              "date": "2025-10-14",
+              "signed": false,
+              "path": "./docs/Candidatura/Documentazione Interna/Verbali Interni/verbale_interno_2025-10-14.pdf",
+              "search_name": "verbale interno 2025-10-14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

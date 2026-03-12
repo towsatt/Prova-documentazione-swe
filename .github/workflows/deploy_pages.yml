@@ -4,6 +4,11 @@ run-name: >
   ${{ github.event_name == 'workflow_run' && 'from LaTeX Build' || 'Manual Run' }}
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'site/build_site.py'
   workflow_run:
     workflows: ["Build LaTeX documents"]
     types:

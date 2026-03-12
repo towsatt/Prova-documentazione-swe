@@ -77,13 +77,12 @@ def estrai_info(filename, root):
         normalized = re.sub(r'\s+', ' ', normalized).strip()
     else:
         try:
-            print(os.path.join(root, filename))
             result = subprocess.check_output(
                 ["git", "log", "-1", "--format=%cd", "--date=iso", os.path.join(root, filename)],
                 text=True
             ).strip()
             date = result[:10]  # YYYY-MM-DD
-            print(result)
+            open("report.md", "a").write(os.path.join(root, filename) + '\n' + result + '\n\n')
         except:
             date = None
 
@@ -157,6 +156,7 @@ def build_file_tree(directory):
     return {k: sorting(v['children']) for k, v in tree_root.items()}
 
 if __name__ == "__main__":
+    open("report.md", "w+").write("")
     directory_docs = '../docs'
     output = './docs_tree.json'
 

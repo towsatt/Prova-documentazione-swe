@@ -77,11 +77,13 @@ def estrai_info(filename, root):
         normalized = re.sub(r'\s+', ' ', normalized).strip()
     else:
         try:
+            print(os.path.join(root, filename))
             result = subprocess.check_output(
                 ["git", "log", "-1", "--format=%cd", "--date=iso", os.path.join(root, filename)],
                 text=True
             ).strip()
             date = result[:10]  # YYYY-MM-DD
+            print(result)
         except:
             date = None
 
